@@ -1,4 +1,4 @@
-class assingment2inverted6{
+class pyramidpattern6{
 //pattern type quetion
 public static void main(String args[]){
 	
